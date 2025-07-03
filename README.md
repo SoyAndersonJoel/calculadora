@@ -1,16 +1,42 @@
-# calculadora
+CALCULADORA
 
-A new Flutter project.
+NOMBRES: ANDERSON VILATUÑA 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+FUNCIONES 
 
-A few resources to get you started if this is your first Flutter project:
+-SUMA 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-RESTA
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-MULTIPLICACIÓN
+
+-DIVISIÓN
+
+-POTENCIA 
+
+-RAIZ
+
+-FUNCIONES TRIGONOMETRICAS
+
+-LOGARITMO
+
+
+
+INTERFACE AMIGABLE 
+
+
+
+
+CAPTURAS DEL FUNCIONAMIENTO
+
+
+
+![image](https://github.com/user-attachments/assets/d0fd93af-7066-4200-8197-49b4b8f133c0)
+
+
+![image](https://github.com/user-attachments/assets/6d8dbfac-e974-4ef4-831a-0294410e2861)
+
+
+
+![image](https://github.com/user-attachments/assets/91f1b78e-efbf-4164-8f24-7385bb378f36)
